@@ -5,7 +5,7 @@ from pathlib import Path
 
 home = Path ("C:\\Users\\HartmanM\\OneDrive - Berufsförderungswerk Köln gGmbH\\Dokumente\\Testdaten\\pathlib")
 
-name = input("Wie soll die datei heißen?\n")
+name = input("Wie soll die datei heissen?\n")
 datentyp = input("was soll sie für ein datentypsein? (.txt,.html,.pdf,.json,.py usw.)\n")
 dateiname = name + "." + datentyp
 Path(home, dateiname).touch(mode=0o777, exist_ok=True)
