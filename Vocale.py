@@ -6,7 +6,7 @@ def count_characters(text):
         for vocal in characters.keys():
             if character == vocal:
                 characters[vocal] += 1
-                #!print("Mein Charcter ist :",character, "::: Mein Vacal ist: ",vocal) Debugging
+                #!print("Mein Charcter ist : ",character, "::: Mein Vacal ist: ",vocal) Debugging
             else:
                 continue
                  
