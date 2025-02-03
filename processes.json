@@ -1,0 +1,1742 @@
+[
+    {
+        "pid": 0,
+        "name": "System Idle Process",
+        "memory_percent": 2.4073495418573086e-05,
+        "memory_mb": 0.0078125
+    },
+    {
+        "pid": 4,
+        "name": "System",
+        "memory_percent": 0.03027242048885566,
+        "memory_mb": 9.82421875
+    },
+    {
+        "pid": 188,
+        "name": "",
+        "memory_percent": 0.3502332480971106,
+        "memory_mb": 113.66015625
+    },
+    {
+        "pid": 232,
+        "name": "Registry",
+        "memory_percent": 0.12151096812524766,
+        "memory_mb": 39.43359375
+    },
+    {
+        "pid": 736,
+        "name": "smss.exe",
+        "memory_percent": 0.003755465285297401,
+        "memory_mb": 1.21875
+    },
+    {
+        "pid": 844,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.11260377482037562,
+        "memory_mb": 36.54296875
+    },
+    {
+        "pid": 952,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.20005074692834238,
+        "memory_mb": 64.921875
+    },
+    {
+        "pid": 1124,
+        "name": "csrss.exe",
+        "memory_percent": 0.01859677521084771,
+        "memory_mb": 6.03515625
+    },
+    {
+        "pid": 1200,
+        "name": "svchost.exe",
+        "memory_percent": 0.033064945957410136,
+        "memory_mb": 10.73046875
+    },
+    {
+        "pid": 1204,
+        "name": "ShellExperienceHost.exe",
+        "memory_percent": 0.24073495418573088,
+        "memory_mb": 78.125
+    },
+    {
+        "pid": 1208,
+        "name": "wininit.exe",
+        "memory_percent": 0.021184675968344318,
+        "memory_mb": 6.875
+    },
+    {
+        "pid": 1236,
+        "name": "Notion.exe",
+        "memory_percent": 0.1923953753852361,
+        "memory_mb": 62.4375
+    },
+    {
+        "pid": 1240,
+        "name": "explorer.exe",
+        "memory_percent": 1.1327662901732474,
+        "memory_mb": 367.61328125
+    },
+    {
+        "pid": 1292,
+        "name": "Code.exe",
+        "memory_percent": 0.08464240989170298,
+        "memory_mb": 27.46875
+    },
+    {
+        "pid": 1344,
+        "name": "svchost.exe",
+        "memory_percent": 0.03867407038993766,
+        "memory_mb": 12.55078125
+    },
+    {
+        "pid": 1356,
+        "name": "services.exe",
+        "memory_percent": 0.03229459410401579,
+        "memory_mb": 10.48046875
+    },
+    {
+        "pid": 1376,
+        "name": "LsaIso.exe",
+        "memory_percent": 0.012169151934088695,
+        "memory_mb": 3.94921875
+    },
+    {
+        "pid": 1384,
+        "name": "lsass.exe",
+        "memory_percent": 0.08803677274572178,
+        "memory_mb": 28.5703125
+    },
+    {
+        "pid": 1400,
+        "name": "svchost.exe",
+        "memory_percent": 0.025999375052058935,
+        "memory_mb": 8.4375
+    },
+    {
+        "pid": 1464,
+        "name": "svchost.exe",
+        "memory_percent": 0.031090919333087143,
+        "memory_mb": 10.08984375
+    },
+    {
+        "pid": 1532,
+        "name": "svchost.exe",
+        "memory_percent": 0.1346189863806607,
+        "memory_mb": 43.6875
+    },
+    {
+        "pid": 1556,
+        "name": "WUDFHost.exe",
+        "memory_percent": 0.026745653410034702,
+        "memory_mb": 8.6796875
+    },
+    {
+        "pid": 1572,
+        "name": "Discord.exe",
+        "memory_percent": 0.23742484856567708,
+        "memory_mb": 77.05078125
+    },
+    {
+        "pid": 1580,
+        "name": "rundll32.exe",
+        "memory_percent": 0.03166868322313289,
+        "memory_mb": 10.27734375
+    },
+    {
+        "pid": 1584,
+        "name": "fontdrvhost.exe",
+        "memory_percent": 0.011302506099020063,
+        "memory_mb": 3.66796875
+    },
+    {
+        "pid": 1596,
+        "name": "Notion.exe",
+        "memory_percent": 0.32754397866510543,
+        "memory_mb": 106.296875
+    },
+    {
+        "pid": 1696,
+        "name": "svchost.exe",
+        "memory_percent": 0.0576921317706104,
+        "memory_mb": 18.72265625
+    },
+    {
+        "pid": 1744,
+        "name": "svchost.exe",
+        "memory_percent": 0.03162053623229575,
+        "memory_mb": 10.26171875
+    },
+    {
+        "pid": 1840,
+        "name": "WUDFHost.exe",
+        "memory_percent": 0.05963004815180554,
+        "memory_mb": 19.3515625
+    },
+    {
+        "pid": 1936,
+        "name": "svchost.exe",
+        "memory_percent": 0.023411474294562327,
+        "memory_mb": 7.59765625
+    },
+    {
+        "pid": 1952,
+        "name": "svchost.exe",
+        "memory_percent": 0.016478307614013275,
+        "memory_mb": 5.34765625
+    },
+    {
+        "pid": 1964,
+        "name": "svchost.exe",
+        "memory_percent": 0.028214136630567658,
+        "memory_mb": 9.15625
+    },
+    {
+        "pid": 1972,
+        "name": "svchost.exe",
+        "memory_percent": 0.016273682902955406,
+        "memory_mb": 5.28125
+    },
+    {
+        "pid": 2124,
+        "name": "WUDFHost.exe",
+        "memory_percent": 0.04330821825801298,
+        "memory_mb": 14.0546875
+    },
+    {
+        "pid": 2180,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.04116567716575998,
+        "memory_mb": 13.359375
+    },
+    {
+        "pid": 2204,
+        "name": "IntelCpHDCPSvc.exe",
+        "memory_percent": 0.01758568840326764,
+        "memory_mb": 5.70703125
+    },
+    {
+        "pid": 2216,
+        "name": "svchost.exe",
+        "memory_percent": 0.034533429177943095,
+        "memory_mb": 11.20703125
+    },
+    {
+        "pid": 2236,
+        "name": "svchost.exe",
+        "memory_percent": 0.017609761898686214,
+        "memory_mb": 5.71484375
+    },
+    {
+        "pid": 2256,
+        "name": "svchost.exe",
+        "memory_percent": 0.0246873695517467,
+        "memory_mb": 8.01171875
+    },
+    {
+        "pid": 2272,
+        "name": "WavesSvc64.exe",
+        "memory_percent": 0.11525185931641865,
+        "memory_mb": 37.40234375
+    },
+    {
+        "pid": 2336,
+        "name": "svchost.exe",
+        "memory_percent": 0.056777338944704624,
+        "memory_mb": 18.42578125
+    },
+    {
+        "pid": 2364,
+        "name": "svchost.exe",
+        "memory_percent": 0.033498268874944455,
+        "memory_mb": 10.87109375
+    },
+    {
+        "pid": 2372,
+        "name": "backgroundTaskHost.exe",
+        "memory_percent": 0.05042193615420133,
+        "memory_mb": 16.36328125
+    },
+    {
+        "pid": 2400,
+        "name": "svchost.exe",
+        "memory_percent": 0.021401337427111474,
+        "memory_mb": 6.9453125
+    },
+    {
+        "pid": 2452,
+        "name": "svchost.exe",
+        "memory_percent": 0.06758633838764394,
+        "memory_mb": 21.93359375
+    },
+    {
+        "pid": 2456,
+        "name": "svchost.exe",
+        "memory_percent": 0.02660121243752326,
+        "memory_mb": 8.6328125
+    },
+    {
+        "pid": 2508,
+        "name": "Notion.exe",
+        "memory_percent": 0.203649734493419,
+        "memory_mb": 66.08984375
+    },
+    {
+        "pid": 2652,
+        "name": "svchost.exe",
+        "memory_percent": 0.03280013750780583,
+        "memory_mb": 10.64453125
+    },
+    {
+        "pid": 2672,
+        "name": "ipf_helper.exe",
+        "memory_percent": 0.02660121243752326,
+        "memory_mb": 8.6328125
+    },
+    {
+        "pid": 2728,
+        "name": "Notion.exe",
+        "memory_percent": 0.5799425413811349,
+        "memory_mb": 188.20703125
+    },
+    {
+        "pid": 2736,
+        "name": "vmmem",
+        "memory_percent": 0.0,
+        "memory_mb": 0.0
+    },
+    {
+        "pid": 2748,
+        "name": "svchost.exe",
+        "memory_percent": 0.02159392539046006,
+        "memory_mb": 7.0078125
+    },
+    {
+        "pid": 2776,
+        "name": "WUDFHost.exe",
+        "memory_percent": 0.01740513718762834,
+        "memory_mb": 5.6484375
+    },
+    {
+        "pid": 2816,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.19870263118490225,
+        "memory_mb": 64.484375
+    },
+    {
+        "pid": 2864,
+        "name": "svchost.exe",
+        "memory_percent": 0.04258601339545579,
+        "memory_mb": 13.8203125
+    },
+    {
+        "pid": 2880,
+        "name": "Wacom_UpdateUtil.exe",
+        "memory_percent": 0.04508965691898739,
+        "memory_mb": 14.6328125
+    },
+    {
+        "pid": 3228,
+        "name": "svchost.exe",
+        "memory_percent": 0.05950968067471267,
+        "memory_mb": 19.3125
+    },
+    {
+        "pid": 3236,
+        "name": "ChatGPT.exe",
+        "memory_percent": 0.7660788079575421,
+        "memory_mb": 248.61328125
+    },
+    {
+        "pid": 3252,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.058378226390039735,
+        "memory_mb": 18.9453125
+    },
+    {
+        "pid": 3280,
+        "name": "svchost.exe",
+        "memory_percent": 0.058077307697307574,
+        "memory_mb": 18.84765625
+    },
+    {
+        "pid": 3332,
+        "name": "svchost.exe",
+        "memory_percent": 0.02373646648271306,
+        "memory_mb": 7.703125
+    },
+    {
+        "pid": 3348,
+        "name": "Notion.exe",
+        "memory_percent": 0.15801842392751372,
+        "memory_mb": 51.28125
+    },
+    {
+        "pid": 3380,
+        "name": "svchost.exe",
+        "memory_percent": 0.037819461302578315,
+        "memory_mb": 12.2734375
+    },
+    {
+        "pid": 3420,
+        "name": "vmms.exe",
+        "memory_percent": 0.1130611712333285,
+        "memory_mb": 36.69140625
+    },
+    {
+        "pid": 3452,
+        "name": "svchost.exe",
+        "memory_percent": 0.028153952892021224,
+        "memory_mb": 9.13671875
+    },
+    {
+        "pid": 3468,
+        "name": "Spotify.exe",
+        "memory_percent": 0.09694396605059383,
+        "memory_mb": 31.4609375
+    },
+    {
+        "pid": 3508,
+        "name": "WUDFCompanionHost.exe",
+        "memory_percent": 0.012265445915762986,
+        "memory_mb": 3.98046875
+    },
+    {
+        "pid": 3528,
+        "name": "wlanext.exe",
+        "memory_percent": 0.021064308491251453,
+        "memory_mb": 6.8359375
+    },
+    {
+        "pid": 3544,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.03363067309974661,
+        "memory_mb": 10.9140625
+    },
+    {
+        "pid": 3548,
+        "name": "Discord.exe",
+        "memory_percent": 0.5189884509813079,
+        "memory_mb": 168.42578125
+    },
+    {
+        "pid": 3552,
+        "name": "svchost.exe",
+        "memory_percent": 0.05262466098500077,
+        "memory_mb": 17.078125
+    },
+    {
+        "pid": 3628,
+        "name": "svchost.exe",
+        "memory_percent": 0.021750403110680785,
+        "memory_mb": 7.05859375
+    },
+    {
+        "pid": 3652,
+        "name": "svchost.exe",
+        "memory_percent": 0.05105988378279352,
+        "memory_mb": 16.5703125
+    },
+    {
+        "pid": 3688,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.19414070380308265,
+        "memory_mb": 63.00390625
+    },
+    {
+        "pid": 3708,
+        "name": "svchost.exe",
+        "memory_percent": 0.047918292630669726,
+        "memory_mb": 15.55078125
+    },
+    {
+        "pid": 3712,
+        "name": "svchost.exe",
+        "memory_percent": 0.01800697457309267,
+        "memory_mb": 5.84375
+    },
+    {
+        "pid": 3724,
+        "name": "svchost.exe",
+        "memory_percent": 0.02578271359329178,
+        "memory_mb": 8.3671875
+    },
+    {
+        "pid": 3844,
+        "name": "svchost.exe",
+        "memory_percent": 0.07212419227404497,
+        "memory_mb": 23.40625
+    },
+    {
+        "pid": 3888,
+        "name": "MemCompression",
+        "memory_percent": 3.3584813090974217,
+        "memory_mb": 1089.91796875
+    },
+    {
+        "pid": 3924,
+        "name": "svchost.exe",
+        "memory_percent": 0.02869560653893912,
+        "memory_mb": 9.3125
+    },
+    {
+        "pid": 3956,
+        "name": "IntelAudioService.exe",
+        "memory_percent": 0.08039343795032482,
+        "memory_mb": 26.08984375
+    },
+    {
+        "pid": 3984,
+        "name": "svchost.exe",
+        "memory_percent": 0.02804562216263765,
+        "memory_mb": 9.1015625
+    },
+    {
+        "pid": 3992,
+        "name": "svchost.exe",
+        "memory_percent": 0.031608499484586466,
+        "memory_mb": 10.2578125
+    },
+    {
+        "pid": 4104,
+        "name": "Discord.exe",
+        "memory_percent": 0.09419958757287648,
+        "memory_mb": 30.5703125
+    },
+    {
+        "pid": 4184,
+        "name": "pdf24.exe",
+        "memory_percent": 0.02367628274416663,
+        "memory_mb": 7.68359375
+    },
+    {
+        "pid": 4192,
+        "name": "svchost.exe",
+        "memory_percent": 0.03260754954445725,
+        "memory_mb": 10.58203125
+    },
+    {
+        "pid": 4244,
+        "name": "svchost.exe",
+        "memory_percent": 0.02147355791336719,
+        "memory_mb": 6.96875
+    },
+    {
+        "pid": 4336,
+        "name": "svchost.exe",
+        "memory_percent": 0.05823378541752829,
+        "memory_mb": 18.8984375
+    },
+    {
+        "pid": 4376,
+        "name": "vmwp.exe",
+        "memory_percent": 0.08788029502550106,
+        "memory_mb": 28.51953125
+    },
+    {
+        "pid": 4396,
+        "name": "svchost.exe",
+        "memory_percent": 0.05358760080174369,
+        "memory_mb": 17.390625
+    },
+    {
+        "pid": 4544,
+        "name": "spoolsv.exe",
+        "memory_percent": 0.05039786265878276,
+        "memory_mb": 16.35546875
+    },
+    {
+        "pid": 4576,
+        "name": "Notion.exe",
+        "memory_percent": 0.3491740142986933,
+        "memory_mb": 113.31640625
+    },
+    {
+        "pid": 4660,
+        "name": "svchost.exe",
+        "memory_percent": 0.07084829701686059,
+        "memory_mb": 22.9921875
+    },
+    {
+        "pid": 4680,
+        "name": "vmcompute.exe",
+        "memory_percent": 0.04363321044616372,
+        "memory_mb": 14.16015625
+    },
+    {
+        "pid": 4692,
+        "name": "svchost.exe",
+        "memory_percent": 0.08582201116721305,
+        "memory_mb": 27.8515625
+    },
+    {
+        "pid": 4752,
+        "name": "svchost.exe",
+        "memory_percent": 0.023002224872446585,
+        "memory_mb": 7.46484375
+    },
+    {
+        "pid": 4792,
+        "name": "Code.exe",
+        "memory_percent": 0.2642427224619675,
+        "memory_mb": 85.75390625
+    },
+    {
+        "pid": 4828,
+        "name": "httpd.exe",
+        "memory_percent": 0.04589611901550959,
+        "memory_mb": 14.89453125
+    },
+    {
+        "pid": 4844,
+        "name": "svchost.exe",
+        "memory_percent": 0.032932541732607984,
+        "memory_mb": 10.6875
+    },
+    {
+        "pid": 4852,
+        "name": "svchost.exe",
+        "memory_percent": 0.06102631088608278,
+        "memory_mb": 19.8046875
+    },
+    {
+        "pid": 4864,
+        "name": "OfficeClickToRun.exe",
+        "memory_percent": 0.1696820324578124,
+        "memory_mb": 55.06640625
+    },
+    {
+        "pid": 4876,
+        "name": "ipfsvc.exe",
+        "memory_percent": 0.01915046560547489,
+        "memory_mb": 6.21484375
+    },
+    {
+        "pid": 4888,
+        "name": "svchost.exe",
+        "memory_percent": 0.15248151998124193,
+        "memory_mb": 49.484375
+    },
+    {
+        "pid": 4896,
+        "name": "svchost.exe",
+        "memory_percent": 0.12316000256141992,
+        "memory_mb": 39.96875
+    },
+    {
+        "pid": 4928,
+        "name": "OneApp.IGCC.WinService.exe",
+        "memory_percent": 0.10393731646968929,
+        "memory_mb": 33.73046875
+    },
+    {
+        "pid": 4936,
+        "name": "dasHost.exe",
+        "memory_percent": 0.033498268874944455,
+        "memory_mb": 10.87109375
+    },
+    {
+        "pid": 4948,
+        "name": "CrossDeviceService.exe",
+        "memory_percent": 0.23105740902746447,
+        "memory_mb": 74.984375
+    },
+    {
+        "pid": 4992,
+        "name": "ipf_uf.exe",
+        "memory_percent": 0.026841947391708993,
+        "memory_mb": 8.7109375
+    },
+    {
+        "pid": 5004,
+        "name": "svchost.exe",
+        "memory_percent": 0.03496675209547741,
+        "memory_mb": 11.34765625
+    },
+    {
+        "pid": 5016,
+        "name": "jhi_service.exe",
+        "memory_percent": 0.019415274055079194,
+        "memory_mb": 6.30078125
+    },
+    {
+        "pid": 5024,
+        "name": "mysqld.exe",
+        "memory_percent": 0.0680678082960154,
+        "memory_mb": 22.08984375
+    },
+    {
+        "pid": 5032,
+        "name": "MpDefenderCoreService.exe",
+        "memory_percent": 0.06460122495574087,
+        "memory_mb": 20.96484375
+    },
+    {
+        "pid": 5144,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.1658302731908407,
+        "memory_mb": 53.81640625
+    },
+    {
+        "pid": 5192,
+        "name": "svchost.exe",
+        "memory_percent": 0.020474507853496412,
+        "memory_mb": 6.64453125
+    },
+    {
+        "pid": 5212,
+        "name": "svchost.exe",
+        "memory_percent": 0.0459803762494746,
+        "memory_mb": 14.921875
+    },
+    {
+        "pid": 5216,
+        "name": "RstMwService.exe",
+        "memory_percent": 0.022761489918260852,
+        "memory_mb": 7.38671875
+    },
+    {
+        "pid": 5268,
+        "name": "Code.exe",
+        "memory_percent": 0.952588213712937,
+        "memory_mb": 309.140625
+    },
+    {
+        "pid": 5272,
+        "name": "RtkAudUService64.exe",
+        "memory_percent": 0.04370543093241944,
+        "memory_mb": 14.18359375
+    },
+    {
+        "pid": 5344,
+        "name": "TeamViewer_Service.exe",
+        "memory_percent": 0.09202093623749563,
+        "memory_mb": 29.86328125
+    },
+    {
+        "pid": 5356,
+        "name": "svchost.exe",
+        "memory_percent": 0.027455821524882604,
+        "memory_mb": 8.91015625
+    },
+    {
+        "pid": 5372,
+        "name": "svchost.exe",
+        "memory_percent": 0.016839410045291874,
+        "memory_mb": 5.46484375
+    },
+    {
+        "pid": 5424,
+        "name": "unsecapp.exe",
+        "memory_percent": 0.029249296933566298,
+        "memory_mb": 9.4921875
+    },
+    {
+        "pid": 5496,
+        "name": "WavesAudioService.exe",
+        "memory_percent": 0.05108395727821209,
+        "memory_mb": 16.578125
+    },
+    {
+        "pid": 5508,
+        "name": "WavesSysSvc64.exe",
+        "memory_percent": 0.568519667805022,
+        "memory_mb": 184.5
+    },
+    {
+        "pid": 5524,
+        "name": "WMIRegistrationService.exe",
+        "memory_percent": 0.038686107137646954,
+        "memory_mb": 12.5546875
+    },
+    {
+        "pid": 5564,
+        "name": "svchost.exe",
+        "memory_percent": 0.07018627589284983,
+        "memory_mb": 22.77734375
+    },
+    {
+        "pid": 5572,
+        "name": "MsMpEng.exe",
+        "memory_percent": 0.9490614466341162,
+        "memory_mb": 307.99609375
+    },
+    {
+        "pid": 5612,
+        "name": "WTabletServicePro.exe",
+        "memory_percent": 0.026336403987918956,
+        "memory_mb": 8.546875
+    },
+    {
+        "pid": 5848,
+        "name": "ChatGPT.exe",
+        "memory_percent": 0.5337334669251839,
+        "memory_mb": 173.2109375
+    },
+    {
+        "pid": 5864,
+        "name": "MicrosoftStartFeedProvider.exe",
+        "memory_percent": 0.1380133492346795,
+        "memory_mb": 44.7890625
+    },
+    {
+        "pid": 6324,
+        "name": "svchost.exe",
+        "memory_percent": 0.03700096245834684,
+        "memory_mb": 12.0078125
+    },
+    {
+        "pid": 6484,
+        "name": "NgcIso.exe",
+        "memory_percent": 0.014576501475946005,
+        "memory_mb": 4.73046875
+    },
+    {
+        "pid": 6828,
+        "name": "svchost.exe",
+        "memory_percent": 0.030693706658680684,
+        "memory_mb": 9.9609375
+    },
+    {
+        "pid": 7024,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.41342617357086486,
+        "memory_mb": 134.16796875
+    },
+    {
+        "pid": 7052,
+        "name": "svchost.exe",
+        "memory_percent": 0.03323346042534015,
+        "memory_mb": 10.78515625
+    },
+    {
+        "pid": 7088,
+        "name": "FileWatcher.exe",
+        "memory_percent": 0.25251893019312244,
+        "memory_mb": 81.94921875
+    },
+    {
+        "pid": 7240,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.02614381602457037,
+        "memory_mb": 8.484375
+    },
+    {
+        "pid": 7332,
+        "name": "conhost.exe",
+        "memory_percent": 0.021028198248123593,
+        "memory_mb": 6.82421875
+    },
+    {
+        "pid": 7564,
+        "name": "WUDFHost.exe",
+        "memory_percent": 0.03029649398427423,
+        "memory_mb": 9.83203125
+    },
+    {
+        "pid": 7648,
+        "name": "OneDrive.exe",
+        "memory_percent": 0.4785088684349773,
+        "memory_mb": 155.2890625
+    },
+    {
+        "pid": 7652,
+        "name": "httpd.exe",
+        "memory_percent": 0.04352487971678014,
+        "memory_mb": 14.125
+    },
+    {
+        "pid": 7740,
+        "name": "sihost.exe",
+        "memory_percent": 0.1357143304222058,
+        "memory_mb": 44.04296875
+    },
+    {
+        "pid": 7848,
+        "name": "WUDFCompanionHost.exe",
+        "memory_percent": 0.010387713273114288,
+        "memory_mb": 3.37109375
+    },
+    {
+        "pid": 7964,
+        "name": "WUDFCompanionHost.exe",
+        "memory_percent": 0.010435860263951434,
+        "memory_mb": 3.38671875
+    },
+    {
+        "pid": 8024,
+        "name": "svchost.exe",
+        "memory_percent": 0.06272349231309218,
+        "memory_mb": 20.35546875
+    },
+    {
+        "pid": 8076,
+        "name": "svchost.exe",
+        "memory_percent": 0.026962314868801858,
+        "memory_mb": 8.75
+    },
+    {
+        "pid": 8088,
+        "name": "svchost.exe",
+        "memory_percent": 0.0509034060625728,
+        "memory_mb": 16.51953125
+    },
+    {
+        "pid": 8660,
+        "name": "WUDFHost.exe",
+        "memory_percent": 0.02413367915711952,
+        "memory_mb": 7.83203125
+    },
+    {
+        "pid": 8664,
+        "name": "SearchHost.exe",
+        "memory_percent": 0.45766122140249293,
+        "memory_mb": 148.5234375
+    },
+    {
+        "pid": 8852,
+        "name": "LockApp.exe",
+        "memory_percent": 0.3417353042143543,
+        "memory_mb": 110.90234375
+    },
+    {
+        "pid": 8884,
+        "name": "svchost.exe",
+        "memory_percent": 0.04490910570334809,
+        "memory_mb": 14.57421875
+    },
+    {
+        "pid": 8952,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.04144252236307357,
+        "memory_mb": 13.44921875
+    },
+    {
+        "pid": 9160,
+        "name": "svchost.exe",
+        "memory_percent": 0.039468495738750574,
+        "memory_mb": 12.80859375
+    },
+    {
+        "pid": 9184,
+        "name": "AggregatorHost.exe",
+        "memory_percent": 0.046209074455951044,
+        "memory_mb": 14.99609375
+    },
+    {
+        "pid": 9280,
+        "name": "svchost.exe",
+        "memory_percent": 0.11446947071531502,
+        "memory_mb": 37.1484375
+    },
+    {
+        "pid": 9292,
+        "name": "svchost.exe",
+        "memory_percent": 0.03707318294460255,
+        "memory_mb": 12.03125
+    },
+    {
+        "pid": 9472,
+        "name": "dasHost.exe",
+        "memory_percent": 0.018031048068511243,
+        "memory_mb": 5.8515625
+    },
+    {
+        "pid": 9500,
+        "name": "svchost.exe",
+        "memory_percent": 0.028900231249996994,
+        "memory_mb": 9.37890625
+    },
+    {
+        "pid": 9656,
+        "name": "WUDFHost.exe",
+        "memory_percent": 0.02834654085536981,
+        "memory_mb": 9.19921875
+    },
+    {
+        "pid": 9732,
+        "name": "Spotify.exe",
+        "memory_percent": 0.11337412667376996,
+        "memory_mb": 36.79296875
+    },
+    {
+        "pid": 9856,
+        "name": "ChatGPT.exe",
+        "memory_percent": 0.41641128700276797,
+        "memory_mb": 135.13671875
+    },
+    {
+        "pid": 10036,
+        "name": "svchost.exe",
+        "memory_percent": 0.04244157242294436,
+        "memory_mb": 13.7734375
+    },
+    {
+        "pid": 10188,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.027215086570696875,
+        "memory_mb": 8.83203125
+    },
+    {
+        "pid": 10236,
+        "name": "Code.exe",
+        "memory_percent": 0.3500165866383434,
+        "memory_mb": 113.58984375
+    },
+    {
+        "pid": 10336,
+        "name": "NisSrv.exe",
+        "memory_percent": 0.036796337747288965,
+        "memory_mb": 11.94140625
+    },
+    {
+        "pid": 10364,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.023760539978131635,
+        "memory_mb": 7.7109375
+    },
+    {
+        "pid": 10380,
+        "name": "Notion Calendar.exe",
+        "memory_percent": 0.15847582034046662,
+        "memory_mb": 51.4296875
+    },
+    {
+        "pid": 10448,
+        "name": "WmiPrvSE.exe",
+        "memory_percent": 0.04547483284568456,
+        "memory_mb": 14.7578125
+    },
+    {
+        "pid": 10460,
+        "name": "svchost.exe",
+        "memory_percent": 0.05585050937108956,
+        "memory_mb": 18.125
+    },
+    {
+        "pid": 10724,
+        "name": "pwsh.exe",
+        "memory_percent": 0.2687926130960778,
+        "memory_mb": 87.23046875
+    },
+    {
+        "pid": 10736,
+        "name": "Code.exe",
+        "memory_percent": 0.2562503219830012,
+        "memory_mb": 83.16015625
+    },
+    {
+        "pid": 11024,
+        "name": "SecurityHealthService.exe",
+        "memory_percent": 0.06184480973031426,
+        "memory_mb": 20.0703125
+    },
+    {
+        "pid": 11268,
+        "name": "pet.exe",
+        "memory_percent": 0.020293956637857113,
+        "memory_mb": 6.5859375
+    },
+    {
+        "pid": 11272,
+        "name": "svchost.exe",
+        "memory_percent": 0.06456511471261302,
+        "memory_mb": 20.953125
+    },
+    {
+        "pid": 11348,
+        "name": "BraveCrashHandler.exe",
+        "memory_percent": 0.003322142367763086,
+        "memory_mb": 1.078125
+    },
+    {
+        "pid": 11588,
+        "name": "pwsh.exe",
+        "memory_percent": 0.26981573665136716,
+        "memory_mb": 87.5625
+    },
+    {
+        "pid": 11604,
+        "name": "svchost.exe",
+        "memory_percent": 0.030236310245727795,
+        "memory_mb": 9.8125
+    },
+    {
+        "pid": 11720,
+        "name": "Spotify.exe",
+        "memory_percent": 0.9523474787587514,
+        "memory_mb": 309.0625
+    },
+    {
+        "pid": 11728,
+        "name": "svchost.exe",
+        "memory_percent": 0.07813052938097896,
+        "memory_mb": 25.35546875
+    },
+    {
+        "pid": 11872,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.22874635346728148,
+        "memory_mb": 74.234375
+    },
+    {
+        "pid": 11888,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.10960662464076328,
+        "memory_mb": 35.5703125
+    },
+    {
+        "pid": 11900,
+        "name": "BraveCrashHandler64.exe",
+        "memory_percent": 0.0030452971704494954,
+        "memory_mb": 0.98828125
+    },
+    {
+        "pid": 11996,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.13135702775144406,
+        "memory_mb": 42.62890625
+    },
+    {
+        "pid": 12056,
+        "name": "Spotify.exe",
+        "memory_percent": 0.5382713208115849,
+        "memory_mb": 174.68359375
+    },
+    {
+        "pid": 12060,
+        "name": "Code.exe",
+        "memory_percent": 0.8136961818954797,
+        "memory_mb": 264.06640625
+    },
+    {
+        "pid": 12208,
+        "name": "svchost.exe",
+        "memory_percent": 0.029333554167531303,
+        "memory_mb": 9.51953125
+    },
+    {
+        "pid": 12260,
+        "name": "vmmem",
+        "memory_percent": 0.0,
+        "memory_mb": 0.0
+    },
+    {
+        "pid": 12400,
+        "name": "svchost.exe",
+        "memory_percent": 0.09064874699863695,
+        "memory_mb": 29.41796875
+    },
+    {
+        "pid": 12508,
+        "name": "WidgetService.exe",
+        "memory_percent": 0.08287300797843786,
+        "memory_mb": 26.89453125
+    },
+    {
+        "pid": 12512,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.25274762839959886,
+        "memory_mb": 82.0234375
+    },
+    {
+        "pid": 12704,
+        "name": "StartMenuExperienceHost.exe",
+        "memory_percent": 0.3536877946896758,
+        "memory_mb": 114.78125
+    },
+    {
+        "pid": 12720,
+        "name": "svchost.exe",
+        "memory_percent": 0.025578088882233906,
+        "memory_mb": 8.30078125
+    },
+    {
+        "pid": 12896,
+        "name": "dllhost.exe",
+        "memory_percent": 0.053840372503638705,
+        "memory_mb": 17.47265625
+    },
+    {
+        "pid": 13020,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.03172886696167933,
+        "memory_mb": 10.296875
+    },
+    {
+        "pid": 13072,
+        "name": "PhoneExperienceHost.exe",
+        "memory_percent": 0.44590131889052,
+        "memory_mb": 144.70703125
+    },
+    {
+        "pid": 13200,
+        "name": "Discord.exe",
+        "memory_percent": 0.8300661587801094,
+        "memory_mb": 269.37890625
+    },
+    {
+        "pid": 13244,
+        "name": "Code.exe",
+        "memory_percent": 0.39775432805337385,
+        "memory_mb": 129.08203125
+    },
+    {
+        "pid": 13308,
+        "name": "ms-teams.exe",
+        "memory_percent": 0.10772889199811456,
+        "memory_mb": 34.9609375
+    },
+    {
+        "pid": 13336,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.44280787472923333,
+        "memory_mb": 143.703125
+    },
+    {
+        "pid": 13536,
+        "name": "Notion.exe",
+        "memory_percent": 0.07804627214701394,
+        "memory_mb": 25.328125
+    },
+    {
+        "pid": 13600,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.05651253049510032,
+        "memory_mb": 18.33984375
+    },
+    {
+        "pid": 13608,
+        "name": "svchost.exe",
+        "memory_percent": 0.06637062686900601,
+        "memory_mb": 21.5390625
+    },
+    {
+        "pid": 13628,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.0908774452051134,
+        "memory_mb": 29.4921875
+    },
+    {
+        "pid": 13896,
+        "name": "ms-teams.exe",
+        "memory_percent": 0.09931520534932325,
+        "memory_mb": 32.23046875
+    },
+    {
+        "pid": 14128,
+        "name": "taskhostw.exe",
+        "memory_percent": 0.07822682336265324,
+        "memory_mb": 25.38671875
+    },
+    {
+        "pid": 14220,
+        "name": "UserOOBEBroker.exe",
+        "memory_percent": 0.031476095259784315,
+        "memory_mb": 10.21484375
+    },
+    {
+        "pid": 14484,
+        "name": "SearchIndexer.exe",
+        "memory_percent": 0.0998207487531133,
+        "memory_mb": 32.39453125
+    },
+    {
+        "pid": 14884,
+        "name": "svchost.exe",
+        "memory_percent": 0.05378018876509228,
+        "memory_mb": 17.453125
+    },
+    {
+        "pid": 14968,
+        "name": "ChatGPT.exe",
+        "memory_percent": 0.16318218869479767,
+        "memory_mb": 52.95703125
+    },
+    {
+        "pid": 15156,
+        "name": "SystemSettings.exe",
+        "memory_percent": 0.008943303547999902,
+        "memory_mb": 2.90234375
+    },
+    {
+        "pid": 15272,
+        "name": "Spotify.exe",
+        "memory_percent": 0.17051256804975318,
+        "memory_mb": 55.3359375
+    },
+    {
+        "pid": 15416,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.07785368418366535,
+        "memory_mb": 25.265625
+    },
+    {
+        "pid": 15540,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.0246873695517467,
+        "memory_mb": 8.01171875
+    },
+    {
+        "pid": 15792,
+        "name": "Notion.exe",
+        "memory_percent": 0.16570990571374786,
+        "memory_mb": 53.77734375
+    },
+    {
+        "pid": 15796,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 1.0000129996875262,
+        "memory_mb": 324.53125
+    },
+    {
+        "pid": 15864,
+        "name": "Notion Calendar.exe",
+        "memory_percent": 0.19169724401809748,
+        "memory_mb": 62.2109375
+    },
+    {
+        "pid": 16200,
+        "name": "Notion.exe",
+        "memory_percent": 0.20194051631870036,
+        "memory_mb": 65.53515625
+    },
+    {
+        "pid": 16344,
+        "name": "Code.exe",
+        "memory_percent": 0.7217113559011118,
+        "memory_mb": 234.21484375
+    },
+    {
+        "pid": 16448,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.4939760892414105,
+        "memory_mb": 160.30859375
+    },
+    {
+        "pid": 16548,
+        "name": "TextInputHost.exe",
+        "memory_percent": 0.23362123628954254,
+        "memory_mb": 75.81640625
+    },
+    {
+        "pid": 16576,
+        "name": "RtkAudUService64.exe",
+        "memory_percent": 0.04932659211265625,
+        "memory_mb": 16.0078125
+    },
+    {
+        "pid": 16712,
+        "name": "FileSyncHelper.exe",
+        "memory_percent": 0.07154642838399922,
+        "memory_mb": 23.21875
+    },
+    {
+        "pid": 16792,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.05975041562889841,
+        "memory_mb": 19.390625
+    },
+    {
+        "pid": 16964,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.027022498607348292,
+        "memory_mb": 8.76953125
+    },
+    {
+        "pid": 17272,
+        "name": "svchost.exe",
+        "memory_percent": 0.09203297298520491,
+        "memory_mb": 29.8671875
+    },
+    {
+        "pid": 17296,
+        "name": "RuntimeBroker.exe",
+        "memory_percent": 0.17915495290502093,
+        "memory_mb": 58.140625
+    },
+    {
+        "pid": 17476,
+        "name": "WidgetBoard.exe",
+        "memory_percent": 0.24386450859014536,
+        "memory_mb": 79.140625
+    },
+    {
+        "pid": 17496,
+        "name": "Code.exe",
+        "memory_percent": 0.13401714899519637,
+        "memory_mb": 43.4921875
+    },
+    {
+        "pid": 18436,
+        "name": "Notion Calendar.exe",
+        "memory_percent": 0.4867058936250014,
+        "memory_mb": 157.94921875
+    },
+    {
+        "pid": 18632,
+        "name": "conhost.exe",
+        "memory_percent": 0.023387400799143754,
+        "memory_mb": 7.58984375
+    },
+    {
+        "pid": 18772,
+        "name": "Spotify.exe",
+        "memory_percent": 0.6622016752263992,
+        "memory_mb": 214.90234375
+    },
+    {
+        "pid": 18820,
+        "name": "SecurityHealthSystray.exe",
+        "memory_percent": 0.037277807655660425,
+        "memory_mb": 12.09765625
+    },
+    {
+        "pid": 18956,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.4194325106777989,
+        "memory_mb": 136.1171875
+    },
+    {
+        "pid": 18960,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.05734306608704109,
+        "memory_mb": 18.609375
+    },
+    {
+        "pid": 18996,
+        "name": "Notion.exe",
+        "memory_percent": 0.43919685041644735,
+        "memory_mb": 142.53125
+    },
+    {
+        "pid": 19368,
+        "name": "Notion Calendar.exe",
+        "memory_percent": 0.3261236424354096,
+        "memory_mb": 105.8359375
+    },
+    {
+        "pid": 19540,
+        "name": "ShellHost.exe",
+        "memory_percent": 0.13861518662014385,
+        "memory_mb": 44.984375
+    },
+    {
+        "pid": 19716,
+        "name": "Discord.exe",
+        "memory_percent": 0.1562730955096672,
+        "memory_mb": 50.71484375
+    },
+    {
+        "pid": 19760,
+        "name": "conhost.exe",
+        "memory_percent": 0.02339943754685304,
+        "memory_mb": 7.59375
+    },
+    {
+        "pid": 19816,
+        "name": "ctfmon.exe",
+        "memory_percent": 0.10913719148010108,
+        "memory_mb": 35.41796875
+    },
+    {
+        "pid": 19904,
+        "name": "svchost.exe",
+        "memory_percent": 0.07947864512441905,
+        "memory_mb": 25.79296875
+    },
+    {
+        "pid": 19956,
+        "name": "unsecapp.exe",
+        "memory_percent": 0.02707064559818544,
+        "memory_mb": 8.78515625
+    },
+    {
+        "pid": 20012,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.018295856518115546,
+        "memory_mb": 5.9375
+    },
+    {
+        "pid": 20064,
+        "name": "svchost.exe",
+        "memory_percent": 0.03186127118648148,
+        "memory_mb": 10.33984375
+    },
+    {
+        "pid": 20328,
+        "name": "Wacom_Tablet.exe",
+        "memory_percent": 0.13954201619375892,
+        "memory_mb": 45.28515625
+    },
+    {
+        "pid": 20372,
+        "name": "Discord.exe",
+        "memory_percent": 0.31801087447935045,
+        "memory_mb": 103.203125
+    },
+    {
+        "pid": 20548,
+        "name": "svchost.exe",
+        "memory_percent": 0.04492114245105738,
+        "memory_mb": 14.578125
+    },
+    {
+        "pid": 20796,
+        "name": "Notion.exe",
+        "memory_percent": 0.2605715144106351,
+        "memory_mb": 84.5625
+    },
+    {
+        "pid": 20904,
+        "name": "intel_cst_service_standalone.exe",
+        "memory_percent": 0.13093574158161903,
+        "memory_mb": 42.4921875
+    },
+    {
+        "pid": 21084,
+        "name": "Wacom_TouchUser.exe",
+        "memory_percent": 0.04806273360318117,
+        "memory_mb": 15.59765625
+    },
+    {
+        "pid": 21192,
+        "name": "Wacom_TabletUser.exe",
+        "memory_percent": 0.03304087246199156,
+        "memory_mb": 10.72265625
+    },
+    {
+        "pid": 21196,
+        "name": "dwm.exe",
+        "memory_percent": 0.4607065185729424,
+        "memory_mb": 149.51171875
+    },
+    {
+        "pid": 21328,
+        "name": "vmsp.exe",
+        "memory_percent": 0.013108018255413044,
+        "memory_mb": 4.25390625
+    },
+    {
+        "pid": 21408,
+        "name": "svchost.exe",
+        "memory_percent": 0.030994625351412848,
+        "memory_mb": 10.05859375
+    },
+    {
+        "pid": 21472,
+        "name": "Code.exe",
+        "memory_percent": 0.25656327742344265,
+        "memory_mb": 83.26171875
+    },
+    {
+        "pid": 21476,
+        "name": "svchost.exe",
+        "memory_percent": 0.06254294109745287,
+        "memory_mb": 20.296875
+    },
+    {
+        "pid": 21508,
+        "name": "Code.exe",
+        "memory_percent": 0.36470141884367296,
+        "memory_mb": 118.35546875
+    },
+    {
+        "pid": 21548,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.16979036318719598,
+        "memory_mb": 55.1015625
+    },
+    {
+        "pid": 21592,
+        "name": "svchost.exe",
+        "memory_percent": 0.03999811263795918,
+        "memory_mb": 12.98046875
+    },
+    {
+        "pid": 21684,
+        "name": "svchost.exe",
+        "memory_percent": 0.03602598589389463,
+        "memory_mb": 11.69140625
+    },
+    {
+        "pid": 21768,
+        "name": "unsecapp.exe",
+        "memory_percent": 0.029104855961054863,
+        "memory_mb": 9.4453125
+    },
+    {
+        "pid": 21924,
+        "name": "svchost.exe",
+        "memory_percent": 0.040696244005097804,
+        "memory_mb": 13.20703125
+    },
+    {
+        "pid": 22008,
+        "name": "Code.exe",
+        "memory_percent": 1.121620261794448,
+        "memory_mb": 363.99609375
+    },
+    {
+        "pid": 22088,
+        "name": "svchost.exe",
+        "memory_percent": 0.07707129558256173,
+        "memory_mb": 25.01171875
+    },
+    {
+        "pid": 22136,
+        "name": "TabTip.exe",
+        "memory_percent": 0.18724364736566146,
+        "memory_mb": 60.765625
+    },
+    {
+        "pid": 22192,
+        "name": "vmplatformca.exe",
+        "memory_percent": 0.012036747709286543,
+        "memory_mb": 3.90625
+    },
+    {
+        "pid": 22360,
+        "name": "WacomHost.exe",
+        "memory_percent": 0.045222061143789544,
+        "memory_mb": 14.67578125
+    },
+    {
+        "pid": 22612,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.32541347432056167,
+        "memory_mb": 105.60546875
+    },
+    {
+        "pid": 22796,
+        "name": "RtkAudUService64.exe",
+        "memory_percent": 0.05356352730632512,
+        "memory_mb": 17.3828125
+    },
+    {
+        "pid": 22896,
+        "name": "ChatGPT.exe",
+        "memory_percent": 0.08967377043418476,
+        "memory_mb": 29.1015625
+    },
+    {
+        "pid": 23088,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.22470200623696118,
+        "memory_mb": 72.921875
+    },
+    {
+        "pid": 23228,
+        "name": "winlogon.exe",
+        "memory_percent": 0.0459803762494746,
+        "memory_mb": 14.921875
+    },
+    {
+        "pid": 23244,
+        "name": "ApplicationFrameHost.exe",
+        "memory_percent": 0.149123267370351,
+        "memory_mb": 48.39453125
+    },
+    {
+        "pid": 23328,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.6475409165164882,
+        "memory_mb": 210.14453125
+    },
+    {
+        "pid": 23356,
+        "name": "svchost.exe",
+        "memory_percent": 0.06458918820803158,
+        "memory_mb": 20.9609375
+    },
+    {
+        "pid": 23384,
+        "name": "csrss.exe",
+        "memory_percent": 0.02537346417117603,
+        "memory_mb": 8.234375
+    },
+    {
+        "pid": 23644,
+        "name": "fontdrvhost.exe",
+        "memory_percent": 0.020041184935962093,
+        "memory_mb": 6.50390625
+    },
+    {
+        "pid": 23900,
+        "name": "Code.exe",
+        "memory_percent": 0.32930134383066123,
+        "memory_mb": 106.8671875
+    },
+    {
+        "pid": 24032,
+        "name": "svchost.exe",
+        "memory_percent": 0.03251125556278295,
+        "memory_mb": 10.55078125
+    },
+    {
+        "pid": 24064,
+        "name": "vmsp.exe",
+        "memory_percent": 0.015033897888898893,
+        "memory_mb": 4.87890625
+    },
+    {
+        "pid": 24220,
+        "name": "msedgewebview2.exe",
+        "memory_percent": 0.11078622591627334,
+        "memory_mb": 35.953125
+    },
+    {
+        "pid": 24504,
+        "name": "vmwp.exe",
+        "memory_percent": 0.08804880949343107,
+        "memory_mb": 28.57421875
+    },
+    {
+        "pid": 24692,
+        "name": "pwsh.exe",
+        "memory_percent": 0.29758451361669125,
+        "memory_mb": 96.57421875
+    },
+    {
+        "pid": 25016,
+        "name": "python.exe",
+        "memory_percent": 0.05344315982923225,
+        "memory_mb": 17.34375
+    },
+    {
+        "pid": 26860,
+        "name": "dllhost.exe",
+        "memory_percent": 0.028888194502287707,
+        "memory_mb": 9.375
+    },
+    {
+        "pid": 27420,
+        "name": "vivaldi.exe",
+        "memory_percent": 0.25862156128173064,
+        "memory_mb": 83.9296875
+    },
+    {
+        "pid": 27668,
+        "name": "backgroundTaskHost.exe",
+        "memory_percent": 0.005705418414201822,
+        "memory_mb": 1.8515625
+    },
+    {
+        "pid": 27724,
+        "name": "conhost.exe",
+        "memory_percent": 0.025096618973862443,
+        "memory_mb": 8.14453125
+    },
+    {
+        "pid": 28788,
+        "name": "FileCoAuth.exe",
+        "memory_percent": 0.1051891382314551,
+        "memory_mb": 34.13671875
+    },
+    {
+        "pid": 30296,
+        "name": "audiodg.exe",
+        "memory_percent": 0.050133054209178456,
+        "memory_mb": 16.26953125
+    }
+]
