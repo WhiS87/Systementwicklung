@@ -1,3 +1,5 @@
+from ToolBox import toolbox
+
 # Version: 1.0
 def main():
     while True:  
@@ -21,7 +23,7 @@ def main():
         elif auswahl == "4":
             import Datenstrukturen
         elif auswahl == "5":
-            import PasswordGenerator
+            toolbox.password_generator()
         elif auswahl == "0":
             print("Das Programm wird beendet.")
             break
