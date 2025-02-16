@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 6.9614,
+        "lat": 50.9311
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "Klarer Himmel",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 3.86,
+        "feels_like": 1.49,
+        "temp_min": 2.27,
+        "temp_max": 4.46,
+        "pressure": 1022,
+        "humidity": 55,
+        "sea_level": 1022,
+        "grnd_level": 1014
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.57,
+        "deg": 100
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1739724303,
+    "sys": {
+        "type": 2,
+        "id": 2005976,
+        "country": "DE",
+        "sunrise": 1739688178,
+        "sunset": 1739724585
+    },
+    "timezone": 3600,
+    "id": 2886242,
+    "name": "Köln",
+    "cod": 200
+}
